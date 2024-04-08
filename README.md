@@ -10,6 +10,7 @@ This repository contains a project that uses OpenCV and CVZone's Haar Casca
 
 
 ## Screenshots
+![Screenshot](https://github.com/bhaveshk22/CarParking_SpaceCounter/assets/141263853/f445f929-6cce-499f-99f0-62aa2f700c2d)
 
 
 
